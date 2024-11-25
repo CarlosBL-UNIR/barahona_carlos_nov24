@@ -1,0 +1,3 @@
+# Ignorar los siguiente ficheros al proyecto:
+asset/*.xsd
+miConfiguracionPersonal/
